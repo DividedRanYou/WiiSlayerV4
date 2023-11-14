@@ -7,4 +7,4 @@ I then realised that the user might have alot of there saves on there SD card or
 
 The whole of the dev team then remembered PriiLoader and BootMii which can prevent this from happening so that's something we need to erase as well, we are stilling working to do that.
 
--------Created by Divided
+- Divided
